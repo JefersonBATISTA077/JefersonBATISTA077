@@ -1,6 +1,15 @@
-## Future fullstack application developer, join me on my journey👋<div align="left">
+## Future fullstack application developer, join me on my journey👋
+<div><h3 align="left">
+  <p>Jovem recém-formado no ensino médio e atualmente cursando Engenharia de Software.</p>
+  <p> Curioso por tecnologia, apaixonado por aprender e explorar novas soluções digitais.</p>
+  <p>Tenho como objetivo atuar como desenvolvedor de aplicativos, unindo criatividade</p>
+  <p> e inovação para transformar ideias em ferramentas úteis no dia a dia.</p>
+</div>
+
+<div align="right" alt="" height="190px">
   <img height="200" width= "250px" src="https://i.pinimg.com/736x/94/4b/c8/944bc8639a85065beebddd72f6a33b64.jpg"  />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JefersonBATISTA077&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -9,7 +18,7 @@
 
 
 ###
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATS&message=%20DEVELOPMENT&color=black&style=for-the-badge"/></p>
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATS&message=%20DEVELOPMENT&color=darkblue&style=for-the-badge"/></p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
