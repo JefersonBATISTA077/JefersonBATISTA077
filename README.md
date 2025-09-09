@@ -1,5 +1,5 @@
 ## Future fullstack application developer, join me on my journey👋<div align="left">
-  <img height="200" width= "350px" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"  />
+  <img height="200" width= "250px" src="https://i.pinimg.com/736x/94/4b/c8/944bc8639a85065beebddd72f6a33b64.jpg"  />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 
 ###
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATS&message=%20DEVELOPMENT&color=Grey&style=for-the-badge"/></p>
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATS&message=%20DEVELOPMENT&color=black&style=for-the-badge"/></p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
