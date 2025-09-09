@@ -2,7 +2,7 @@
 <div><h3 align="left">
   <p>Jovem recém-formado no ensino médio e atualmente cursando Engenharia de Software.</p>
   <p> Curioso por tecnologia, apaixonado por aprender e explorar novas soluções digitais.</p>
-  <p>Tenho como objetivo atuar como desenvolvedor de aplicativos, unindo criatividade</p>
+  <p>Tenho como objetivo atuar como desenvolvedor de software, unindo criatividade</p>
   <p> e inovação para transformar ideias em ferramentas úteis no dia a dia.</p>
 </div>
 
