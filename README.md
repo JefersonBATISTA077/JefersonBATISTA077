@@ -2,8 +2,9 @@
 <div><h3 align="left">
   <p>Jovem recém-formado no ensino médio e atualmente cursando Engenharia de Software.</p>
   <p> Curioso por tecnologia, apaixonado por aprender e explorar novas soluções digitais.</p>
-  <p>Tenho como objetivo atuar como desenvolvedor de software, unindo criatividade</p>
-  <p> e inovação para transformar ideias em ferramentas úteis no dia a dia.</p>
+  <p>Tenho como objetivo atuar na área de cibersegurança, mais especificamente como analista de segurança Blue Team,</p>
+  <p>protegendo sistemas e informações contra ameaças, identificando vulnerabilidades e garantindo a segurança digital de empresas e usuários.</p>
+  
 </div>
 
 <div align="right" alt="" height="190px">
@@ -17,22 +18,6 @@
 </div>
 
 
-###
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATS&message=%20DEVELOPMENT&color=darkblue&style=for-the-badge"/></p>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
 
 
 
