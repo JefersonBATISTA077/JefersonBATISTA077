@@ -2,8 +2,7 @@
 <div><h3 align="left">
   <p>Jovem recém-formado no ensino médio e atualmente cursando Engenharia de Software.</p>
   <p> Curioso por tecnologia, apaixonado por aprender e explorar novas soluções digitais.</p>
-  <p>Tenho como objetivo atuar na área de cibersegurança, mais especificamente como analista de segurança Blue Team,</p>
-  <p>protegendo sistemas e informações contra ameaças, identificando vulnerabilidades e garantindo a segurança digital de empresas e usuários.</p>
+  <p>Tenho como objetivo atuar na area de desenvolvimento.</p>
   
 </div>
 
