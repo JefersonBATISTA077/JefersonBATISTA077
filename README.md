@@ -1,4 +1,4 @@
-## Future blue team security analyst, join me on my journey👋
+## Future successful programmer, join me on my journey👋
 <div><h3 align="left">
   <p>Jovem recém-formado no ensino médio e atualmente cursando Engenharia de Software.</p>
   <p> Curioso por tecnologia, apaixonado por aprender e explorar novas soluções digitais.</p>
